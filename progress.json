@@ -1,0 +1,14 @@
+{
+  "cards_data.csv": {
+    "uploaded_rows": 107,
+    "completed": false
+  },
+  "transactions_data.csv": {
+    "uploaded_rows": 0,
+    "completed": false
+  },
+  "users_data.csv": {
+    "uploaded_rows": 0,
+    "completed": false
+  }
+}
