@@ -10,5 +10,17 @@
   "users_data.csv": {
     "uploaded_rows": 540,
     "completed": false
+  },
+  "Bitcoin_tweets.csv": {
+    "uploaded_rows": 164,
+    "completed": false
+  },
+  "train.csv": {
+    "uploaded_rows": 0,
+    "completed": false
+  },
+  "Bitcoin_tweets_dataset_2.csv": {
+    "uploaded_rows": 0,
+    "completed": false
   }
 }
