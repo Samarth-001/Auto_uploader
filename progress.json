@@ -12,8 +12,9 @@
     "completed": false
   },
   "Bitcoin_tweets.csv": {
-    "uploaded_rows": 3751,
-    "completed": false
+    "uploaded_rows": 3797,
+    "completed": false,
+    "total_rows": 4693144
   },
   "train.csv": {
     "uploaded_rows": 2629,
