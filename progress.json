@@ -18,8 +18,9 @@
     "total_rows": 4693144
   },
   "train.csv": {
-    "uploaded_rows": 2629,
-    "completed": false
+    "uploaded_rows": 2679,
+    "completed": false,
+    "total_rows": 1710670
   },
   "Bitcoin_tweets_dataset_2.csv": {
     "uploaded_rows": 311,
