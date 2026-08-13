@@ -10,8 +10,8 @@
     "total_rows": 13305915
   },
   "users_data.csv": {
-    "uploaded_rows": 1823,
-    "completed": false,
+    "uploaded_rows": 2000,
+    "completed": true,
     "total_rows": 2000
   },
   "Bitcoin_tweets.csv": {
