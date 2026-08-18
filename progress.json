@@ -1,7 +1,7 @@
 {
   "cards_data.csv": {
-    "uploaded_rows": 6117,
-    "completed": false,
+    "uploaded_rows": 6146,
+    "completed": true,
     "total_rows": 6146
   },
   "transactions_data.csv": {
